@@ -20,3 +20,7 @@ python3 auto_scroll.py -a 1            # scroll up instead
 | `-t`, `--time` | 0 | stop after this many seconds; 0 runs until Ctrl+C |
 
 On macOS, give the terminal Accessibility permission so it can move the wheel.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
